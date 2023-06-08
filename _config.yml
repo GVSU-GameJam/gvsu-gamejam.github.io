@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: GVSU Game Jam
+description: Homepage for providing resources and information regarding the Game Jam event series.
 theme: just-the-docs
+color_scheme: dark
 
-url: https://just-the-docs.github.io
+callouts_opacity: 0.3
+callouts:
+  important:
+    title: Important
+    color: red
+
+url: https://gvsu-gamejam.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Page Repository: https://github.com/GVSU-GameJam/gvsu-gamejam.github.io
+  Twitter: https://twitter.com/erik_fredericks
