@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer class="text-center">
+<footer class="text-center" id="footer">
   <div class="footer-above">
     <div class="container">
       <div class="row">
@@ -33,7 +33,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+          Copyright &copy; <a href="{{ site.footer.url }}" target="_blank">{{ site.footer.copyright }}</a> 20{{ site.time | date: '%y' }}
         </div>
       </div>
     </div>

@@ -1,10 +1,12 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+title: GVSU Computing Club Game Jam
+email: frederer@gvsu.edu
+# url: https://www.gvsu.edu/computing/student-organizations-22
+current_prompt: collect
+2025_prompt: collect
+description: "Resource site for game jams hosted by the GVSU Computing Club."
+keywords: "computing club, university, game jam, game jams, video games, video game development, club activities"
+# skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -21,7 +23,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -32,31 +34,40 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: GVSU Computing Club
+  location: Grand Valley State University
   social: Around the Web
   credits: Credits
+  url: https://www.gvsu.edu/computing/student-organizations-22
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: discord
+    url: https://discord.gg/KDPKWG5x
+  - title: linkedin
+    url: https://www.linkedin.com/company/computing-club
+  - title: instagram
+    url: https://www.instagram.com/gvsucomputingclub/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/GVSU-Computing-Club
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  # - line: 3481 Melrose Place
+  - line: Allendale, MI, USA
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '<a href="https://github.com/jeromelachaud/freelancer-theme" target="_blank">site template</a><br />site maintained by <a href="https://efredericks.github.io" target="_blank">fredericks</a>'
 
 # Build settings
 markdown: kramdown

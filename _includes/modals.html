@@ -20,9 +20,14 @@
             <p>{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
-              {% if post.client %}
-              <li>Client:
-                <strong>{{ post.client }}</strong>
+              {% if post.link %}
+              <li>Link:
+                <strong>{{ post.link }}</strong>
+              </li>
+              {% endif %}
+              {% if post.students %}
+              <li>Students:
+                <strong>{{ post.students }}</strong>
               </li>
               {% endif %}
               {% if post.project-date %}
