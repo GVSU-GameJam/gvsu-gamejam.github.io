@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2025-11-20
+img: rollies.jpg
+alt: Rollies
+students: gwemilyn
+category: 2D survival, Collect
+link: https://github.com/emheyboer/game-jam
+description: A dice collection roguelike
+---

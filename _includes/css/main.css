@@ -492,3 +492,20 @@ footer .footer-below {
   font-weight: 400;
   font-style: normal;
 }
+
+.portfolio-item {
+    border: 1em solid #ccc;
+    border-radius: 25px;
+    margin: 5px 0px;
+    padding: 2em;
+    box-shadow: -3px 6px #888888cc;
+
+}
+
+.caption {
+    margin-bottom: 1em;
+}
+.caption-content i {
+    line-height: 1.3em;
+    font-size: 1.3em;
+}

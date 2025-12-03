@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2025-11-20
+img: toothpaste-f25.png
+alt: Isaac S.
+project-date: November 2025
+students: Isaac S.
+category: Godot, Roguelike
+link: https://gvsu-gamejam-fall2025-isaac.surge.sh/
+description: Physics-based toothpaste collector written in Haxe.
+---

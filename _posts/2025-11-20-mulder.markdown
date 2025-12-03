@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2025-11-20
+img: mulder-f25.png
+alt: Alexander Mulder
+project-date: November 2025
+students: Team 42 - Alexander Mulder
+category: Point and Click, Collect, Python, PyGame 
+link: https://github.com/thealexanderm/Collect
+description: A simple point-and-click game with the goal to collect coins.
+---
