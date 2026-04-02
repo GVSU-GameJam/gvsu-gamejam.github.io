@@ -4,6 +4,7 @@ modal-id: 2
 date: 2025-11-20
 img: toothpaste-f25.png
 alt: Isaac S.
+session: f2025
 project-date: November 2025
 students: Isaac S.
 category: Godot, Roguelike

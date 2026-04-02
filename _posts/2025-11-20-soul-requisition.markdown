@@ -4,6 +4,7 @@ modal-id: 3
 date: 2025-11-20
 img: soul-requisition.png
 alt: Soul Requisition
+session: f2025
 students: Carmelo Sanchez, Elijah Morgan
 category: Godot, Roguelike, Bullet Hell, Collect
 link: https://github.com/Sanccarm/soul-requisition

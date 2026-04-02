@@ -5,6 +5,7 @@ date: 2025-11-20
 img: the-present-thief.png
 alt: The Present Thief
 students: Team Six Sevennnnnn
+session: f2025
 category: Pygame, 2D survival, Collect
 link: https://github.com/mabaddomm/Computing-Club-GAME-JAMMMMMMMMM
 description: A simple 2D game framework built with Python and pygame-ce.
