@@ -487,6 +487,11 @@ footer .footer-below {
     max-width: 30%;
 }
 
+a.header {
+    color: #eed0b1;
+    font-weight: 800;
+}
+
 .press-start-2p-regular {
   font-family: "Press Start 2P", system-ui;
   font-weight: 400;
