@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2026-04-14
+img: only-you.jpg
+alt: Team Gwemilyn
+session: w2026
+students: Team Gwemilyn (Gwen and Emily)
+category: strategy, pygame, python
+link: https://github.com/emheyboer/game-jam-w26
+description: GVSU Computing Club gamejam 2026 submission. A pixel art strategy game.
+---
