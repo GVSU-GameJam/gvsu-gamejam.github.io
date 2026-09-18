@@ -1,3 +1,11 @@
+Fredericks notes:
+ 
+* Prompts are in `_config.yml`
+* Top of page info in `_includes/header.html`
+* Submissions go in `_posts`
+
+---
+
 Freelancer Jekyll theme  
 =========================
 
