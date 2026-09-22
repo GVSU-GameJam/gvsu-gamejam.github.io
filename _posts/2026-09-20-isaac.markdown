@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2026-04-14
+img: isaac.png
+alt: Isaac and the Isaacsons II
+session: f2026
+students: Isaac and the Isaacsons II
+category: TBD
+link: 
+description: GVSU Computing Club Gamejam Fall 2026 submission. 
+---

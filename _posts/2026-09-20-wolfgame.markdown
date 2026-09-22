@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2026-04-14
+img: by-bee-bo.png
+alt: By Bee Bo Interactive/Joseph Bebeau
+session: f2026
+students: By Bee Bo Interactive/Joseph Bebeau
+category: pygame
+link: https://github.com/JB3770/WolfGame
+description: GVSU Computing Club Gamejam Fall 2026 submission. Wolves and sheep and explosions in pygame!
+---
