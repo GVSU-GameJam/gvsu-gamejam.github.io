@@ -514,3 +514,9 @@ a.header {
     line-height: 1.3em;
     font-size: 1.3em;
 }
+
+.award {
+    text-align: center;
+    border: 1px solid #000;
+    background: #{{ site.color.primary}}33;
+}

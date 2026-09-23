@@ -20,9 +20,24 @@
           </div>
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
         </a>
+        {% if post.award %}
+        <br />
+        <div class="award">
+          <h4>{{ post.award }}</h4>
+        </div>
+        {% endif %}
       </div>
       {% endif %}
       {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h3 class="press-start-2p-regular">Additional Awards</h3>
+        <ul>
+          <li class="press-start-2p-regular">🏆 Coolest Art Direction Award: Taylor 🏆</li>
+        </ul>
+        <!-- <hr class="star-primary"> -->
+      </div>
     </div>
   </div>
 </section>

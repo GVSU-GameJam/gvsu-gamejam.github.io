@@ -9,4 +9,5 @@ students: Jonas Rhoades
 category: unity
 link: https://github.com/ObsidianMiner/Cyberleak-Simulator
 description: GVSU Computing Club Gamejam Fall 2026 submission. Steal a USB of GTA 6 from rockstar and grapple back using your chameleon tongue. Hide from the rockstar drones using R, G, & B to change your color.  The world of piracy is counting on you.
+award: Favorite Game Award
 ---

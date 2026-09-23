@@ -9,4 +9,5 @@ students: Isaac and the Isaacsons II
 category: TBD
 link: 
 description: GVSU Computing Club Gamejam Fall 2026 submission. 
+award: Most Creative Use of Theme Award
 ---
